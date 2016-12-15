@@ -28,6 +28,8 @@ markdown: kramdown
 theme: jekyll-theme-midnight
 gems:
   - jekyll-feed
+  - jemoji
+  - midnight
 exclude:
   - Gemfile
   - Gemfile.lock

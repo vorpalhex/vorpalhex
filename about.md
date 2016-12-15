@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Welcome to Jekyll!"
+title:  "About"
 date:   2016-12-14 21:38:27 -0600
 categories: about
 ---

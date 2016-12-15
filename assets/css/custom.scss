@@ -1,9 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
 code {
   font-family: 'Fira code';
 }
-@import "fonts/firacode/fira_code";
+@import "fira_code";
 @import "vorpal";
