@@ -13,15 +13,3 @@ layout: default
   </div>
 
 </article>
-<meta property="og:url" content="{{ site.url | append: page.url }}" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="{{ page.title | escape }}" />
-<meta property="og:description" content="{{ page.excerpt | strip_html }}" />
-{% assign images = content | split:"<img " %}
-{% for image in images %}
-  {% if image contains 'src=' %}
-    {% assign imageMarkup = image | split:">" | first %}
-    <meta property="og:image" content="{{ imageMarkup }}" />
-    {% break %}
-  {% endif %}
-{% endfor %}
