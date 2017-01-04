@@ -5,8 +5,6 @@ date:   2017-01-03 12:00:00 -0600
 categories: tech blogging
 ---
 
-# How to talk about tech: a primer
-
 Everyone has read a blog post that starts with a grand claim such as "MyLatestDB is the fastest database ever!", or more than likely, "LatestHatedTech is the worst thing ever made ever." It's probably pretty obvious the issue with this and instead of ripping apart this approach I'm going to recommend a better one. My goal here isn't to be exhaustive, but provide a general guide of how to write blog posts about tech appropriately.
 
 ## Define a narrow scope
