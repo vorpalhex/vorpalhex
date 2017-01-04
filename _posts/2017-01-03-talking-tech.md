@@ -21,7 +21,7 @@ But the best sort of claim is something like this:
 
 > jQuery is a poor choice for a coherent framework because it's intended to be a toolbelt, and falls short of many alternatives such as backbone or marionette.
 
-It would be difficult to select any technology that is a wholesale failure. Often times technology is abused in ways it wasn't intended to be used and is therefore not exactly ideal. When we claim a technology is bad, we need to be specific about in what aspect. Do we dislike it for it's performance? It's lack of features? How does this compare to it's intent and it's common usage?
+It would be difficult to select any technology that is a wholesale failure. Often times technology is abused in ways it wasn't intended to be used and is therefore not exactly ideal. When we claim a technology is bad, we need to be specific about in what aspect. Do we dislike it for its performance? Its lack of features? How does this compare to its intent and its common usage?
 
 ## Pros and Cons
 
