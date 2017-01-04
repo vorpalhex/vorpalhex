@@ -11,15 +11,15 @@ Everyone has read a blog post that starts with a grand claim such as "MyLatestDB
 
 A really bad claim is as follows:
 
-    jQuery sucks.
+> jQuery sucks.
 
 Here's a slightly better claim:
 
-    jQuery sucks because it's not a coherent framework.
+> jQuery sucks because it's not a coherent framework.
 
 But the best sort of claim is something like this:
 
-    jQuery is a poor choice for a coherent framework because it's intended to be a toolbelt, and falls short of many alternatives such as backbone or marionette.
+> jQuery is a poor choice for a coherent framework because it's intended to be a toolbelt, and falls short of many alternatives such as backbone or marionette.
 
 It would be difficult to select any technology that is a wholesale failure. Often times technology is abused in ways it wasn't intended to be used and is therefore not exactly ideal. When we claim a technology is bad, we need to be specific about in what aspect. Do we dislike it for it's performance? It's lack of features? How does this compare to it's intent and it's common usage?
 
@@ -27,17 +27,17 @@ It would be difficult to select any technology that is a wholesale failure. Ofte
 
 An overall better way to discuss technology is to compare and contrast, to discuss pros and cons especially compared to a similar technology. Consider the following:
 
-    Express
-    ----
-    Fast, Connect based
-    Lean, minimalistic
-    Extremely flexible
+> Express
+> --
+> Fast, Connect based
+> Lean, minimalistic
+> Extremely flexible
 
-    Hapi
-    ----
-    Opinionated
-    Batteries Included
-    Consistent Performance
+> Hapi
+> --
+> Opinionated
+> Batteries Included
+> Consistent Performance
 
 All of a sudden instead of making a broad and difficult to support statement ("Express is better than Hapi" or vice-versa), I've delineated their differences because frankly they have very different goals. Express is for those who want a minimalistic starting point that is highly configurable. Hapi is batteries included for those that want traditional, consistent applications. Neither is inherently better or worse, but each one is better for a given goal.
 
@@ -45,7 +45,7 @@ All of a sudden instead of making a broad and difficult to support statement ("E
 
 Even if my goal is to be critical of a technology, I need to be able to point to alternatives that meet the burden I'm attempting to place. Not all of these alternatives are likely to be equally good, but we can insert a discussion about them.
 
-    MySQL is a poor choice for time series data. Instead we can look to purpose built products such as InFluxDB or Riak. InfluxDB supports user permissions and several other basic features but lacks the powerful distributed capabilities of Riak.
+> MySQL is a poor choice for time series data. Instead we can look to purpose built products such as InFluxDB or Riak. InfluxDB supports user permissions and several other basic features but lacks the powerful distributed capabilities of Riak.
 
 ## In Short
 
